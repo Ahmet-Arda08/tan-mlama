@@ -1,0 +1,14 @@
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\bin\Debug\net7.0\döngülerde dizi kulanımı.exe
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\bin\Debug\net7.0\döngülerde dizi kulanımı.deps.json
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\bin\Debug\net7.0\döngülerde dizi kulanımı.runtimeconfig.json
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\bin\Debug\net7.0\döngülerde dizi kulanımı.dll
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\bin\Debug\net7.0\döngülerde dizi kulanımı.pdb
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\obj\Debug\net7.0\döngülerde dizi kulanımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\obj\Debug\net7.0\döngülerde dizi kulanımı.AssemblyInfoInputs.cache
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\obj\Debug\net7.0\döngülerde dizi kulanımı.AssemblyInfo.cs
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\obj\Debug\net7.0\döngülerde dizi kulanımı.csproj.CoreCompileInputs.cache
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\obj\Debug\net7.0\döngülerde dizi kulanımı.dll
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\obj\Debug\net7.0\refint\döngülerde dizi kulanımı.dll
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\obj\Debug\net7.0\döngülerde dizi kulanımı.pdb
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\obj\Debug\net7.0\döngülerde dizi kulanımı.genruntimeconfig.cache
+C:\Users\KORKMAZ\Documents\vs code 2\döngülerde dizi kulanımı\obj\Debug\net7.0\ref\döngülerde dizi kulanımı.dll
